@@ -1,0 +1,82 @@
+Sabacc
+A Card Game of the Star Wars Galaxy
+Design: Michael Stern with Douglas Kaufxnan and Greg Gorden
+Editing: Bill Slavicsek
+Card Designs: Rosaria Baldari
+Graphics: Cathleen Hunter
+Assistance: C.J. Tramontana, Jonatha Caspian 
+
+Sabacc is a game of skill and chance played in gambling halls and casinos across the Star Wars galaxy. It is the preferred game of infamous gambler Lando Calrissian, who participated in the most talked-about game ever. (That's the game in which he reportedly lost his ship, the Millennium Falcon, to the equally infamous Han Solo.)
+
+To play Sabacc, you need this rules sheet, the sabacc deck, a six-sided die, and something to represent credits (peanuts, jelly beans, etc.). 
+
+The Cards
+---------
+Sabacc is played with a deck of 76 cards made up of four suits -- Sabres, Staves, Flasks, Coins -- and a set of face cards. Each suit is made up of 11 regular cards (numbered 1-11) and four ranked cards; the Commander, the Mistress, the Master, and the Ace (numbered 12-15).
+
+The set of face cards consists of 16 cards, each with a negative value. (You can have a hand which has a negative total in Sabacc.) In addition, each face card has a special name and symbol. There are two of each face card in the deck.
+
+If this were the Star Wars galaxy, electronic pulses would randomly shift the faces of the cards until they were locked in by the player via a "neutral field". In our galaxy, we've included several mechanics which simulate the effect of wild randomness, while allowing for strategy.
+
+Rules of Play
+-------------
+The object of Sabacc is to have the highest card total which is less than or equal to 23. A total which is over 23, under negative 23, or exactly zero is a bomb out, and requires the holder of the hand to pay a penalty (see below).
+
+There are two pots to be won in the game of sabacc. A pot is the total amount of credits (Star Wars money) staked by all the players in one hand of the card game. Each pot should be set apart from the other in neat piles somewhere on the table. The first of the two pots is the hand pot, which is taken by the player who wins the hand. The second is the sabacc pot, which continually builds, and can only be won with a special hand (see below).
+
+To start a game of Sabacc, choose one player to be the dealer of the first hand. Other players wishing to be dealt into a hand must first ante by placing one credit into the hand pot. Each player must also ante one credit into the sabacc pot if it is ever empty. This includes the very first hand of the game.
+
+Each player takes a turn in order, beginning with the player to the dealer's left, that includes the phases listed below. Once a player has completed all the phases in the turn, it becomes the turn of the player on his or her left. (Remember, the dealer plays each hand by taking a turn when it comes up in the order.)
+
+After every hand, the player to the left of the dealer becomes the new dealer. 
+
+Turn Phases
+-----------
+Betting Phase: Each player is dealt two cards. The player to the left of the dealer begins play with the option to bet. If he chooses to do so, the bet is placed in the hand pot. If a bet is placed, each player must match that bet if he or she wishes to remain in the hand. 
+
+Only the player whose turn it is may place a bet, but that bet may be raised by any of the players in turn. The betting and raising limits are three credits. Before moving on to the next phase, the player whose turn it is must ask each player if they wish to fold (drop out of the hand). A player may only fold during the betting phase, and must pay one credit to the sabacc pot to do so.
+
+Shifting Phase: After the betting phase is completed, the player whose turn it is rolls a six-sided die. If the result is a 1, 2 or 3, shifting occurs.
+
+In shifting, each player has one card, chosen randomly by the player to his right, discarded from his hand. All of the cards which were discarded are pooled together and shuffled by the dealer. The dealer then displays the discarded cards face down on the table, and each player, in order starting with the player to the dealer's left, picks one of the discarded cards and adds it to his hand.
+
+Note: If a player folds on his own turn, he must still make the roll in the shifting phase, but his cards are not included in the shift.
+
+Calling Phase: After the shifting phase is completed, the player whose turn it is asks if anyone would like to call the hand. When a hand is called, each player must immediately place their cards face-up on the table in front of them and declare what they have. See "Winning a Hand" for victory conditions and penalties.
+
+A player may only call the hand during the calling phase of another player's turn, never during their own turn. No one may call the hand until every player has had at least one turn, including the dealer.
+
+Calling simulates locking in your cards, since there is no "neutral field" included.
+
+Note: You may wish to increase the minimum number of turns before the hand may be called when playing with fewer than four players. This allows for more interesting hands to develop.
+
+Drawing Phase: After the calling phase, the player whose turn it is has the option to draw one card from the deck. If the player holds more than two cards, he may exchange one of the cards in his hand for a card drawn from the deck, or simply draw a card from the deck and add it to his hand (but not both).
+
+There is no limit to the amount of cards that a player may hold in his or her hand, but he must always have at least two cards. Cards which are dropped from a player's hand during this phase are removed from play.
+
+Winning a Hand
+--------------
+When a hand is called, the player with the highest card total which is 23 or less wins the hand. A player also wins the hand if everyone else folds. The winning player wins the hand pot only.
+
+If two or more players are tied, they must participate in a sudden demise. In a sudden demise, the dealer deals each participating player one card from the deck which the players must add to their hands. The best modified hand takes the pot. If there is still a tie, the pot is split.
+
+If any player has a total which is over 23, less than negative 23, or exactly zero when the hand is called, he or she has bombed out. In this circumstance, the bombed-out player must match the exact amount of credits which are currently in the hand pot, and pay it to the sabacc pot.
+
+In addition to this, if the player who called the hand does not win it, he or she must also pay the sabacc pot as if they had bombed-out.
+
+Special Hands
+-------------
+To win the sabacc pot, a player must have one of two special hands. The first is when a player has a card total of exactly 23. This is called a Pare Sabacc, and is usually accompanied by an enthusiastic cry of "Sabacc!" when the cards are turned over. The other sabacc pot winning hand is called an Idiot's Array. To achieve this, a player must have an Idiot face card, a two card and a three card of any suit (a literal 23).
+
+An Idiot's Array beats a Pure Sabacc, but if two or more players have the same special hand in contention for the sabacc pot, a sudden demise is held as usual.
+
+Roleplaying Rules
+-----------------
+If you are roleplaying a game of sabacc, the characters' gambling skills are used in conjunction with the above rules. Once during each hand, a character may choose to make a gambling roll. That character declares which opposing character he or she wishes to roll against, and opposed rolls are made. If the character who declared the gambling attempt wins the opposed roll, the other character must reveal his entire hand to his opponent.
+
+The gambling roll may be declared at any time during a hand, during anyone's turn.
+
+In addition to using the gambling skill legally, a character may elect to cheat. To do this requires success on a Difficult gambling roll. This allows the character to be exempt from a card shifting, keeping the cards he has. The cheating attempt may be declared after a shift has been rolled.
+
+Failure on the cheating roll means that the character has been caught cheating and is out of the game. This situation should be roleplayed accordingly.
+
