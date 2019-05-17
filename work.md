@@ -4,6 +4,8 @@ You will find a more complete resume/CV for Ed Niles on [LinkedIn](https://www.l
 
 - BlueLabs Analytics
   - Lead Media Strategist
+- DCCC (Independent Expenditure)
+  - Director of Data & Analytics
 - The Atlas Project and Democratic GAIN
   - Chief of Staff/Targeting Director
 - Trivedi for Congress (PA-06)
