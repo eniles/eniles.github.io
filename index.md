@@ -1,8 +1,8 @@
 ## Welcome Friend
 
-Hi! My name is Ed Niles. Welcome to my little corner of the web.
-
 ![Headshot](https://edniles.com/images/left_photo_other.jpg)
+
+Hi! My name is Ed Niles. Welcome to my little corner of the web.
 
 I'm a technology geek working professionally in Democratic politics. Currently residing in Madison, WI and splitting time in Washington, DC. I'm also a graduate of the Univerity of Wisconsin, a huge Badgers fan, and lover of Irish whiskey.
 
