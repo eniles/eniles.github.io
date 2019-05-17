@@ -19,8 +19,3 @@ Any emails sent to web [at] edniles.com will eventually reach me.
 If we know each other in the real world try [facebook.com/ed.niles](https://facebook.com/ed.niles)
 
 Politics and retweeting other things that amuse me at [@edniles](https://twitter.com/EdNiles)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eniles/eniles.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
