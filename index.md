@@ -6,6 +6,12 @@ I'm a technology geek working professionally in Democratic politics. Currently r
 
 I use this site mainly to reserve my name in domain form and to run my personal email. However, I do post side-projects up on the web from time to time. If you're cyber-stalking me, I have some information about my work history listed under Work and more information about things I'm interested in under Play. Of course if you're just looking to get in touch with me, contact information is provided here as well.
 
+### Code and Side Projects
+
+There used to be a whole section of this site dedicated to random bits of code and other side projects I felt like sharing with the world.  However, GitHub and AWS services have removed the need for keeping a  webserver up and running strictly for that purpose.  You can find some possibly useful code in my storage repo [eniles-random-code](https://github.com/eniles/eniles-random-code) or feel free to root around in any of my [public repos](https://github.com/eniles).  
+
+Any active side projects will be listed here:
+- None currently
 
 ### Maybe you're just lost?
 
@@ -15,7 +21,5 @@ If you've stumbled onto this site accidentally, and you don't really care who th
 ### Contact
 
 Any emails sent to web [at] edniles.com will eventually reach me.
-
 If we know each other in the real world try [facebook.com/ed.niles](https://facebook.com/ed.niles)
-
 Politics and retweeting other things that amuse me at [@edniles](https://twitter.com/EdNiles)
