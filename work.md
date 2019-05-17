@@ -1,4 +1,4 @@
-You will find a more complete resume/CV on [LinkedIn](https://www.linkedin.com/in/ed-niles-4547a061/).
+You will find a more complete resume/CV for Ed Niles on [LinkedIn](https://www.linkedin.com/in/ed-niles-4547a061/).
 
 ### Causes and Campaigns I've been a part of:
 
