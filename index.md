@@ -6,7 +6,7 @@ Hi! My name is Ed Niles. Welcome to my little corner of the web.
 
 I'm a technology geek working professionally in Democratic politics. Currently residing in Madison, WI and splitting time in Washington, DC. I'm also a graduate of the Univerity of Wisconsin, a huge Badgers fan, and lover of Irish whiskey.
 
-I use this site mainly to reserve my name in domain form and to run my personal email. However, I do post side-projects up on the web from time to time. If you're cyber-stalking me, I have some information about my work history listed on my [Work] page and more information about things I'm interested in under [Play](/play.html). Of course if you're just looking to get in touch with me, contact information is provided below, as well.
+I use this site mainly to reserve my name in domain form and to run my personal email. However, I do post side-projects up on the web from time to time. If you're cyber-stalking me, I have some information about my work history listed on my [Work](/work.html) page and more information about things I'm interested in under [Play](/play.html). Of course if you're just looking to get in touch with me, contact information is provided below, as well.
 
 ### Code and Side Projects
 
