@@ -2,6 +2,8 @@ You will find a more complete resume/CV for Ed Niles on [LinkedIn](https://www.l
 
 ### Causes and Campaigns I've been a part of:
 
+- TargetSmart
+  - Director of Digital & Media
 - BlueLabs Analytics
   - Lead Media Strategist
 - DCCC (Independent Expenditure)
